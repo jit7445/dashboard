@@ -17,7 +17,7 @@ export default function Dashboard() {
               value="24"
               description="4 Urgently needed"
               color="lightOrange"
-              className="bg-lightOrange"
+              className="bg-lightOrange text-textRed"
               textcolor="textRed"
             />
             <Card
